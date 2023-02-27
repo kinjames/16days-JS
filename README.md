@@ -7,3 +7,6 @@ color flipper
 
 Project 2
 Testimonial slider
+
+Project 3
+Restaurant Menu with filter 

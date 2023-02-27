@@ -4,3 +4,6 @@ Every project and the type of JavaScript method used
 
 Project 1 
 color flipper
+
+Project 2
+Testimonial slider
